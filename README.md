@@ -1,7 +1,3 @@
-Ecco il file **README.md** per il progetto:
-
----
-
 # GestioneAuto - REST API per la Gestione di Utenti e Auto
 
 ## Descrizione
