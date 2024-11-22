@@ -2,7 +2,7 @@ const express = require('express'); //importa il framework express che permette 
 const body = require('body-parser'); // gestisce i dati del body delle richiest HTTP.
 const mysql = require('mysql2'); //permette di interagire con il database.
 
-// Definizione della classe
+
 class GestioneAuto {
     constructor() {
         this.conn = mysql.createConnection({
